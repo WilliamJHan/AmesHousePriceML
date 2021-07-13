@@ -4,6 +4,8 @@ Ames House Price Prediction is a Python machine learning project on housing data
 ## About the Project
 This project is intended to set up a machine learning model using the train set to predict the sales price for each house in the test set. Root Mean Squared Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price was used as the accuracy metric.
 
+As this was a group project, author's personal code can be found in "Ames Housing Price Prediction WH" and team final code can be found in "Ames Housing Price Prediction Team Final".
+
 ## Data Dictionary
 Detailed data dictionary can be found on the kaggle competition this project was based on here: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
